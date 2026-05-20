@@ -83,17 +83,7 @@ Whether you're a beginner creating your first open-source project or an experien
 
 ### Prerequisites
 
-Make sure you have the following installed:
-
-- Node.js (v18 or later recommended)
-- npm or yarn
-
-Check installed versions:
-
-```bash
-node -v
-npm -v
-```
+No installation required to create a readme it entirely runs on browser.
 
 ---
 
